@@ -24,7 +24,7 @@ A fully functional **YouTube Clone Website** built with **React.js, Node.js, HTM
 
 | Homepage | Video Player Page |
 |----------|--------------------|
-| ![Homepage Screenshot](./assets/homepage.png) | ![Video Player Screenshot](./assets/player.png) |
+| ![Homepage Screenshot](./assets/Homepage.png) | ![Video Player Screenshot](./assets/Player.png) |
 
 ---
 
